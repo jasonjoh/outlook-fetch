@@ -367,7 +367,7 @@ Let's test it out! We need to pass the required arguments `certfile`, `certpass`
 --certfile <path to your outlook-fetch-priv.pfx file> --certpass <the password you specified when exporting the private key> --user <a user in your office 365 org>
 ```
 
-![](.\readme-images\visual-studio-command-line.PNG)
+![](./readme-images/visual-studio-command-line.PNG)
 
 Save the project and start debugging. You should see the access token printed to the console. Now that we can get an access token, we're ready to call the API.
 
