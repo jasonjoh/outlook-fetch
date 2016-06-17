@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+certificate/appmanifest.json
+certificate/keyCredentials.txt
+*.cer
+*.pfx
+.vs/outlook-fetch/v14/.suo
+outlook-fetch/bin
+outlook-fetch/obj
+outlook-fetch/outlook-fetch.csproj.user
+packages
