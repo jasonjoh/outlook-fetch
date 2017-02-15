@@ -101,7 +101,7 @@ In this step we'll create an app registration in the Azure Active Directory asso
 
 In this step we'll insert the public key we exported earlier into the app manifest we downloaded, then upload the modified manifest back to Azure.
 
-1. Download the Get-KeyCredentials.ps1 file and save it in the same directory as your certificate files.
+1. Download the [Get-KeyCredentials.ps1](./certificate/Get-KeyCredentials.ps1) file and save it in the same directory as your certificate files.
 
 1. Open **Windows Powershell** in the directory where you saved your certificate files.
 
