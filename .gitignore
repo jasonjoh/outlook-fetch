@@ -49,7 +49,7 @@ certificate/appmanifest.json
 certificate/keyCredentials.txt
 *.cer
 *.pfx
-.vs/outlook-fetch/v14/.suo
+.vs
 outlook-fetch/bin
 outlook-fetch/obj
 outlook-fetch/outlook-fetch.csproj.user
